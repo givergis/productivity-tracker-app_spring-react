@@ -8,6 +8,7 @@ public class BackendProductivityTrackerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BackendProductivityTrackerApplication.class, args);
+		System.out.println("Spring web satrted...");
 	}
 
 }
