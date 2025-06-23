@@ -9,6 +9,8 @@ import com.givergis.backend_productivity_tracker.service.TaskService;
 
 import java.util.List;
 
+
+@CrossOrigin
 @RestController
 @RequestMapping("/api/tasks")
 public class TaskController {
